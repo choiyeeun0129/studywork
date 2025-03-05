@@ -14,3 +14,8 @@
  - VCS 메뉴에서 "Enable Version Control Integration..." 클릭
  - 드롭다운에서 "Git" 선택
  - OK 버튼 클릭
+
+ # 레파지토리에 리드미파일이있으면 
+  - pull받고 push하기
+  - 터미널에서 git pull origin main
+  - 터미널에서 git push origin main
