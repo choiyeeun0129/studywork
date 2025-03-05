@@ -1,0 +1,16 @@
+# 깃허브
+ - 깃허브에서 프로젝트 레파지토리만들기
+
+
+# 프로젝트 터미널에서 
+ - git init
+ - git add .
+ - git commit -m "초기 코드 커밋"
+ - git remote add origin "git adress"
+ - git branch -m main
+ - git push -u origin main
+
+# 프로젝트 vcs선택
+ - VCS 메뉴에서 "Enable Version Control Integration..." 클릭
+ - 드롭다운에서 "Git" 선택
+ - OK 버튼 클릭
